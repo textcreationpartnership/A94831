@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryall and condemnation of Col. Daniel Axtell, who guarded the High-Court of Injustice. Col. Francis Hacker, who guarded His Sacred Majesty to the scaffold. Cap. Hewlet, who was proved to be the man that butchered His Majesty. Together with, their severall pleas, and the answers thereunto. At the sessions-house in the Old-baily, on Monday the 15. of October, 1660. By the judges appointed by the King for that purpose.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94831</idno>
+            <idno type="STC">Wing T2138</idno>
+            <idno type="STC">Thomason E1046_8</idno>
+            <idno type="STC">ESTC R208055</idno>
+            <idno type="EEBO-CITATION">99867059</idno>
+            <idno type="PROQUEST">99867059</idno>
+            <idno type="VID">119349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119349)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1046[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryall and condemnation of Col. Daniel Axtell, who guarded the High-Court of Injustice. Col. Francis Hacker, who guarded His Sacred Majesty to the scaffold. Cap. Hewlet, who was proved to be the man that butchered His Majesty. Together with, their severall pleas, and the answers thereunto. At the sessions-house in the Old-baily, on Monday the 15. of October, 1660. By the judges appointed by the King for that purpose.</title>
+                  <author>Hacker, Francis, d. 1660.</author>
+                  <author>Hewlet, William, Captain.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Deacon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Axtel, Daniel, d. 1660</term>
+               <term>Hacker, Francis, d. 1660</term>
+               <term>Hewlet, William, --  Captain</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Assassination.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119349:1"/>
+            <p>THE TRYALL AND CONDEMNATION OF Col. DANIEL AXTELL, <hi>who guar<g ref="char:EOLhyphen"/>ded the High-Court of Injuſtice.</hi> Col. FRANCIS HACKER, <hi>who guar<g ref="char:EOLhyphen"/>ded His Sacred Majeſty to the Scaffold.</hi> Cap. HEWLET, <hi>who was proved to be the man that Butchered His Majeſty. Together with,</hi> Their ſeverall <hi>Pleas,</hi> and the <hi>Anſwers</hi> thereunto.</p>
+            <p>At the <hi>Seſſions-houſe</hi> in the <hi>Old-baily,</hi> on Monday the 15. of <hi>October,</hi> 1660.</p>
+            <p>By the Judges appointed by the King for that purpoſe.</p>
+            <q>Malum perſequitur peccatores.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for H. <hi>Deacon,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="trial">
+            <pb facs="tcp:119349:2"/>
+            <pb n="3" facs="tcp:119349:2"/>
+            <p>ON <hi>Monday</hi> the 16. day of <hi>October,</hi> the Court for Tryal of all ſuch as had conſpired the Kings Death, called to the Bar
+<list>
+                  <item>Col. <hi>Daniell Axtell.</hi>
+                  </item>
+                  <item>Col. <hi>Francis Hacker.</hi>
+                  </item>
+                  <item>Capt. <hi>Hewlet.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>After <hi>Hewlet</hi> had been Indicted and pleaded not <hi>Guilty,</hi> Col. <hi>Axtell</hi> was called to the Bar, and the Jury being Sworn, The Kings Council ſtood up and charged the Priſoner to the following effect.</p>
+            <p>
+               <hi>My Lords and Gentlemen of the Jury.</hi>
+            </p>
+            <p>
+               <hi>The High Court of Injuſtice</hi> that was erected for the Try<g ref="char:EOLhyphen"/>all of the <hi>King</hi> had all the Formalities of a Court to put in Execution that Bloody Act, they had their Preſident, their Council, their Chaplaine, and their Guards. You have Tryed ſome of the Court, one of their Council and their Chaplaine, and this Gentleman that is now Priſo<g ref="char:EOLhyphen"/>ner at the Bar commanded that Black and Cruel Guard which attended them; The courſe of the Evidence is this, that during the time of that Bloody Tryal, he com<g ref="char:EOLhyphen"/>manded the Souldiers, he kept the Entrance into the Hall, and when <hi>Bradſhaw</hi> taxed the <hi>King</hi> for trifling away Time and for Delays, &amp; bid him Anſwer to the Charge Exhibited <hi>by the Commons of England;</hi> A Noble perſon in the Gallery there ſaid it was a Lie, for above half the
+<pb n="4" facs="tcp:119349:3"/>
+               <hi>Commons of England</hi> diſowned it; the Priſoner at the Bar commanded the Souldiers to Shoot and Kill Her; he did ſeveral times command the Souldiers to cry <hi>Juſtice, Juſtice,</hi> and the laſt day or that wicked Tryal called by them the day of <hi>Judgement</hi> to cry Execution, Execution: and when they would not do as he bid them, he was the Man that had the Valour to beat them. Gentlemen, if we can prove any of theſe things it is Equal in point of Law as if he had been the very Man that had cut off the <hi>Kings</hi> Head.</p>
+            <p>
+               <hi>The Witneſſes being called and Sworn, their Evidence was as followeth.</hi>
+            </p>
+            <p>That they ſaw Coll. <hi>Axtell</hi> commanding the Guards of <hi>Weſtminſter-Hall Gate</hi> when the <hi>High Court of Juſtice ſate;</hi> That he ſaw Col. <hi>Axtell</hi> command the Souldiers to Shoot at the LADY that (as he ſaid) Diſturbed the Court by the words aforeſaid, and being aſked who the Lady was, he anſwered that he could not tell, but it was reported to be the Lady <hi>Fairfaix.</hi>
+            </p>
+            <p>
+               <hi>Col. Huncks</hi> ſaid, that hearing of the Warrant that was directed to him &amp; others <hi>from the High Court of Juſtice</hi> to ſee the <hi>King</hi> Executed, he came to <hi>Whitehall,</hi> and went to <hi>Cromwells</hi> Chamber where <hi>Ireton</hi> and <hi>Hariſon</hi> lay a bed together, <hi>Cromwell</hi> was making himſelf ready; where <hi>Col. Huncks</hi> was Ordered to Signe a Sub-Warrant to the Executioner for cutting off the <hi>Kings</hi> Head, which deny<g ref="char:EOLhyphen"/>ing <hi>Col. Axtell</hi> ſtood up and ſaid, <hi>Col. Huncks</hi> I am aſha<g ref="char:EOLhyphen"/>med of you to think that now we are going into a ſafe Harbour you ſhould ſtrike Saile before we have caſt Anckor:</p>
+            <p>Another Witneſſe ſaid that <hi>Col. Axtell</hi> was very buſie and Active in putting forward the Souldiers to cry <hi>Ju<g ref="char:EOLhyphen"/>ſtice,
+<pb n="5" facs="tcp:119349:3"/>Juſtice,</hi> the Firſt day of the <hi>Kings</hi> Tryal in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter Hall.</hi>
+            </p>
+            <p>And that the laſt day of the <hi>Kings</hi> tryall, he ani<g ref="char:EOLhyphen"/>mated them to cry <hi>Execution, Execution</hi> againſt the <hi>King:</hi> That he had a Souldier under his command which he brought before Mr: <hi>Cooke</hi> to be a Witneſſe againſt the <hi>King,</hi> and that he ſent a File of Muſqueteers to finde out the Common-Hangman to execute the King; that he commanded his own Company to draw up in the Banquetting Houſe that morning the King was be<g ref="char:EOLhyphen"/>headed; that he did acknowledge to another that he was the Man that managed the Execution of that Affair: ſeveral other things were ſworn againſt him to evidence his forwardneſſe in that horrid Murther, which made him appear a blacker perſon then it was thought he would.</p>
+            <p>Col. <hi>Axtell</hi> in anſwer, deſires to know by what Sta<g ref="char:EOLhyphen"/>tute he was tryed; to which he was told by a Statute of the 25. of <hi>Edward</hi> the Third.</p>
+            <p>Then he pleaded to the following purpoſe, he hoped he could not be found guilty of that Statute, for compaſ<g ref="char:EOLhyphen"/>ſing, contriving, councelling or imagining the Death of the King, that what he did was as a Souldier, and ſo muſt obey the Commands of his ſuperiour Officers; that the Power that did condemn the King were owned both at home and abroad, by Forraign States and Kingdomes; that the Members and Officers of State acted under them, that the Judges ſate by their Authority, &amp;c. Therefore I hope that doing things by their Order I am juſtifyed; as alſo I hope that what I have done as a Souldier, deriving my power from my General, will not make me guilty of that Fact: I did it not voluntarily but compulſively; and it is my Duty by the Law of
+<pb n="6" facs="tcp:119349:4"/>War, to put in Execution the General's Commands: I was no Councellour, no Contriver of that buſineſſe, no Parliament Man, do Judge, none that ſate, and none that ſigned; and therefore cannot be ſaid to be guilty.</p>
+            <p>Here he began to rip up the buſineſſe of the War be<g ref="char:EOLhyphen"/>tween the Parliament and the King, and that his Com<g ref="char:EOLhyphen"/>miſſion was from his General, grounded upon his, which was from the Lords and Commons.</p>
+            <p>But being told that this Act was done when they had Rebelled againſt that Power which gave them their Commiſſions, when they had turned the greateſt part of them out of Doors, and would not ſuffer them; that it was againſt the will of the Lords, who muſt be no lon<g ref="char:EOLhyphen"/>ger Lords becauſe they would not joyne in that Horrid Murther; here the Lord <hi>Auneſley</hi> ſtood up and brought to the Priſoners Memory the paſſages of that Tranſa<g ref="char:EOLhyphen"/>ction wherein he was a forward Inſtrument. And told him:</p>
+            <p>That the King and the two Houſes were upon Tearms of Peace, that the whole Nation thirſted after it, and Tearms of Peace were propounded and agreed upon between them; and then comes up the Army who were the Parliaments Servants till that time, and then offer Accuſations againſt the Generallity of the Houſe, calling them Rotten Members, &amp;c: And that he could not but remember how forward he was at the Bar of the Houſe upon that buſineſſe; then came in a thing never heard of before, a few Members of about Forty Five who were fit to ſerve the Armies turn in carrying on this Horrid Murther, and theſe and none but theſe are allowed to fit, by the Army, the reſt being driven away and impriſo<g ref="char:EOLhyphen"/>ned; then an Act is ſet on foot for conſtituting <hi>A High Court of Juſtice</hi> calling themſelves by the name of the
+<pb n="7" facs="tcp:119349:4"/>Parliament of <hi>England</hi> whereas almoſt all the Cities of <hi>England,</hi> almoſt all the Knights of the Shires, and almoſt all the chief Burroughes of <hi>England</hi> had none left to re<g ref="char:EOLhyphen"/>preſent them, when this Act was ſet on Foot, and paſt as an Act of Parliament by a few and the moſt inconſide<g ref="char:EOLhyphen"/>rable of the Houſe Commons, which was ſo farre from being accounted an Authority that they had not the leaſt colour for it.</p>
+            <p>Col. <hi>Axtell</hi> further pleaded the obedience to his Offi<g ref="char:EOLhyphen"/>cers by Vertue of his Commiſſion and the Rules of War to be enough to plead his Excuſe it being grounded up<g ref="char:EOLhyphen"/>on a Commiſſion given by the Lords and Commons to the General.</p>
+            <p>To which was anſwered that they did not taſke him for any thing done by the Commiſſion of the Lords and Commons, but for the ſubſequents which were commit<g ref="char:EOLhyphen"/>ted after their Illegall Interruption, the King and the Parliament having laid all miſunderſtandings (before thoſe Violent and Wicked proceedings) a ſleep and ſo not to be mentioned at that time; If he had been Indi<g ref="char:EOLhyphen"/>cted for Levying War againſt the King that Plea had been good, but being Indicted for an Actor upon the ſad Tragedy of the Kings Death which was done after the aforeſaid oeſſation of the houſe of Lords and Commons, all that he could ſay upon that account was not to be taken notice of in the leaſt, For the Lord <hi>Fairfax</hi> him<g ref="char:EOLhyphen"/>ſelf at that time had no Authority himſelf, for the two Houſes of Parliament gave him his Commiſſion.</p>
+            <p>Then it was aſked whether it was mentioned in his Commiſſion that he ſhould cry <hi>Juſtice, Juſtice,</hi> and whe<g ref="char:EOLhyphen"/>ther if his Superiour Officers had commanded him Treaſon that could juſtifie him? the Guilt being the
+<pb n="8" facs="tcp:119349:5"/>greater for his obeying Man before God; there being a double obedience Active and Paſſive, and <hi>Col. Huncks</hi> for denying to Sign the Warrant for that wicked Act, ſuffered no inconveniency at all; in a word there was no other Authority but your own Law and Wills, and although both Houſes had given you Commiſſion to do that horrid Act, it could not juſtifie you.</p>
+            <p>Then Collonel <hi>Axtell</hi> pleaded the King's Declaration; in which he ſaid was expreſt, that the Parliament that were to except, was to be a Free Parliament, and ſuch a one as was to be called by his own Writ.</p>
+            <p>To which was anſwered, that the King owned this as his Parliament, that in his Declaration from <hi>Bredah,</hi> he ſaid he would leave it to the Parliament, which could be underſtood of no other but this Parliament; as being thoſe that he did intruſt with the vindication of his Fathers Death, and directing his Letter in theſe words, <hi>To the Speaker of the Houſe of Commons Aſſembled in Parliament.</hi>
+            </p>
+            <p>After ſeveral other things, which he endeavoured to uſe for his vindication, which were eaſily anſwered, The Court asked if he had any thing more to ſay, to which he replyed no: Whereupon the JURY without going forth immediately found him Guilty of the aforeſaid TREASON of conſpiring and compaſſing the DEATH of our ſaid late SOVE<g ref="char:EOLhyphen"/>RAIGN:</p>
+            <p>Col. <hi>Axtell</hi> being taken from the Bar, the Court called for Collonel <hi>Hacker,</hi> whoſe Indictment being read in the Form aforeſaid; The Kings Council ſtood up and char<g ref="char:EOLhyphen"/>ged him likewiſe of High Treaſon to the following effect.</p>
+            <p>
+               <pb n="9" facs="tcp:119349:5"/>
+               <hi>My Lords and Gentlemen of the Jury:</hi>
+            </p>
+            <p>
+               <hi>Francis Hacker</hi> the priſoner at the Bar ſtands indicted for contriving, councelling, and compaſſing the Death of his late Majeſty of ever bleſſed Memory, the othe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things mentioned in the Indictment, as aſſembling, mee<g ref="char:EOLunhyphen"/>ting, and propounding to Murther and Deſtroy him are laid but as Evidences to ſhew his trayterous imagina<g ref="char:EOLhyphen"/>tion thereof; he was one that was upon the Guard to the intent the King might be brought to that Mock<g ref="char:EOLhyphen"/>court of Injuſtice. He was ſo highly intruſted by thoſe Miſcreants as to have a Warrant directed to him to take into his cuſtody the Kings perſon, and to ſee Exe<g ref="char:EOLhyphen"/>cution done. Accordingly he took the perſon of the King from col. <hi>Thomlinſon,</hi> and was the Man in purſuance of the aforeſaid Warrant that brought him to the fatall AXE; he gave a Warrant to that bloudy Fellow that did the Act: he did it not ignorantly; for he knew the contents of that horrible Warrant; he was on the Scaf<g ref="char:EOLhyphen"/>fold at the time of the Execution; he had the Axe in his hand, and was the perſon that managed the whole buſineſs of the Kings Murther:</p>
+            <p>Witneſſe being produced, it was ſworn, that he con<g ref="char:EOLhyphen"/>feſt he ſigned a Warrant for the King Execution.</p>
+            <p>That he did demand the perſon of the King from col. <hi>Thomlinſon</hi> by Vertue of a Warrant directed to him from the High-court of Juſtice.</p>
+            <p>That <hi>Cromwell</hi> (when he ſaw <hi>Huncks</hi> refuſed to ſigne a Warrant to the Executioner) writ ſomething with his own hand, which was thought to be the Kings Exe<g ref="char:EOLhyphen"/>cution, which <hi>Hacker</hi> ſigned, and that the King came upon the Scaffold immediately after; and that collonel <hi>Hacker</hi> was upon the Scaffold.</p>
+            <p>col. <hi>Hacker</hi> ſaid he did believe he did ſigne ſuch a
+<pb n="10" facs="tcp:119349:6"/>Warrant; and being asked to whom he directed it, he anſwered he could not tell!</p>
+            <p>So the Jury without going forth immediately found him <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Guilty <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>He being taken from the Bar, at lasſt Capt. <hi>Hewlet</hi> was brought before the Court and after his Ind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctment read, was charged by the Kings Council, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> &amp;c.</p>
+            <p>You have heard ſeveral of the King's Judges Indicted, their Councel, their Chaplain and their Guard, who have been found Guilty by you. This priſoner at the Bar in the laſt place, ws one of thoſe that came upon the Scaffold, at the time of the Kings Murther, with a Vizarrd upon his Face, and a Frock upon his Body, to doe that bloudy and unparalleld Act, and that he was the Man that gave the Fatal blow; We have Witneſſe my Lord; to prove that he was there. Secondly, That he was ſo by his own confeſſion; I doubt not likewiſe Gentlemen, but to prove that he had One hundred pound given, and was promiſed preferment likewiſe in <hi>Ireland</hi> for this horrid Murther. Gentlement, he is Indicted for imagining the King Death; and if we can but prove any of thoſe Circumstances, you are to find him Guilty, if we prove he came Diſguiſed upon the Scaffold, it is enough <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or if <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>prove any thing out of his own mouth, it will be a further Tre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y, and we dovbt not but to pluck off his Vizard before we <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ne.</p>
+            <p>The ſubſtance of the Witneſſes was to the following effect, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>at he ſaid he was to have one hundred pound, and prefer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <hi>Ireland</hi> to cut off the Kings Head, That a Serjeant in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e Company with him heard his voice upon the Scaffold and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>w his Breeches under his Frock, and that he had the Gray<g ref="char:EOLhyphen"/>perriwig and Vizard, with a Gray-Beard, and that he was cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Grandſire Gray-beard all over the Regiment, after that day; That he was ſeen the day before and the day after upon the Guards, but was not to be heard of that day.</p>
+            <p>Being asked where he was that day the King was Murthered, He anſwered that Col. <hi>Hewſon</hi> clapt him up into priſon, becauſe he would not go upon the Scaffold, and Nine more with him.</p>
+            <p>
+               <pb n="11" facs="tcp:119349:6"/>The Souldiers being askt whether any were impriſoned or not, anſwered that they were all askt but all denied, and no man was impriſoned, and that <hi>Hewlet</hi> was gone of ſuddain and no man ſaw him till ten of the clock that Evening.</p>
+            <p>Col. <hi>Thomlinſon</hi> was called as a VVitneſſe, and being askt who it was that did the Murther of the two in the Frocks on the Scaffold, ſaid that the man in the Grey Perriwig and Grey Beard with the Vizard did it, and that it was a man much about <hi>Hew<g ref="char:EOLhyphen"/>let</hi>'s ſtature, and that he could not poſſitively ſay it, but had often heard that <hi>Hewlet</hi> was the Man.</p>
+            <p>Capt. <hi>Towgood</hi> is called to ſpeak his knowledge in the buſineſs who firſt deſired he might give an account what other men had ſaid in the buſineſſe, and then he would tell the Court what <hi>Hew<g ref="char:EOLhyphen"/>let</hi> had ſaid himſelf.</p>
+            <p>Capt. <hi>Towgood</hi> ſaid that one day talking with Col. <hi>Hewſon</hi> in <hi>Dublin, Hewlet</hi> came to them and after he was gone, <hi>Towgood</hi> asked <hi>Hewſon</hi> what that fellow was (meaning <hi>Hewlet</hi>) to which Col. <hi>Hewſon</hi> anſwered, I'le promiſe you he is a very metled fel<g ref="char:EOLhyphen"/>low, for 'twas he that did the Kings buſineſſe for him upon the Scaffold. That at another time, <hi>Towgood</hi> and <hi>Hewlet</hi> being in company together Capt. <hi>Towgood</hi> askt him whether he was the man that cut off the Kings Head, that <hi>Hewlet</hi> anſwered him, with a Queſtion ſaying who told you ſo? <hi>Towgood</hi> anſwered Col. <hi>Hewſon,</hi> &amp;c. To which <hi>Hewlet</hi> anſwered again, what I have done I am not aſhamed of, and if it were to doe again I would doe it, And further Capt. <hi>Towgood</hi> ſaid he had often heard him called Grandſire Grey Beard in <hi>Ireland,</hi> and that he uſed to call him ſo himſelf.</p>
+            <p>Another VVitneſſe ſaid, that being in company with <hi>Hewlet</hi> in <hi>Dublin,</hi> Drinking together he ſeriouſly diſcourſt with him to the following effect; ſaying, that he had oftentimes heard that he was the man that cut off the Kings head, and deſired he would re<g ref="char:EOLhyphen"/>ſolve him whether it was true or no; To which <hi>Hewlet</hi> anſwe<g ref="char:EOLhyphen"/>red how ſhould you know that, I never told any man living yet, the witneſſe preſſing of him further ſaid I have heard you did not only cut off the Head, but took it in your hands and holding it to the people ſaid it was the Head of a Traytor, to which <hi>Hewlet</hi>
+               <pb n="12" facs="tcp:119349:7"/>ſaid again, <hi>Viz.</hi> whoever ſaid it then, I ſay it now, it was the head of a Traytor.</p>
+            <p>By another witneſſe it was proved that he ſaid that he did cut off the Kings Head, and that he had a hundred pound for his days work.</p>
+            <p>Another witneſſe ſaid, that we was a ſpectator neer the Sca<g ref="char:EOLhyphen"/>ffold that day, and that the man in the Grey Perriwig and the Vizard with a Grey Beard was the man that ſtruck the Fatal blow. <hi>Hewlet</hi> deſired the Gentleman might be asked where he ſtood that he could ſee it ſo plain, to which he anſwered that be ſtood in a place need <hi>Whitehall</hi> where <hi>Hewlet</hi> might eaſily have ſeen him if he had lookt that way.</p>
+            <p>Several other witneſſes were Examined to the ſame purpoſe concerning his own confeſſion of doing that wicked Act.</p>
+            <p>Other witneſſes were Examined, and particularly one who met the Common Hang-man that day of the Kings Murther, about Five in the Afternoon, and talking with him about the buſineſſe the Hang man held up his hands and ſaid, he thanked God he had eſcaped a moſt Horrid Act for it was intended that he ſhould have cut off the Kings Head, but he did it not, nor would not have done it for a thouſand pound.</p>
+            <p>
+               <hi>Hewlet</hi> denyed all confidently and deſired time to prove the contrary, but the Court being ſatisfied with the witneſſe, after ſame conſultation among themſelves it was reſolved to leave it to the Jury to proceed according to Evidence, which the Jury made no longer buſineſſe of, but brought him <hi>Guilty.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
